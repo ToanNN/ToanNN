@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToanNN
-- 👀 I’m interested in designing distributed application, Web 3, and trading systems
-- 🌱 I’m currently learning Blazor and Domain Design Development
-- 💞️ I’m looking to collaborate on designing trading systems
+- 👀 I’m interested in designing distributed and AI-enabled applications.
+- 🌱 I’m currently learning AI-enabled application and Domain Design Development
+- 💞️ I’m looking to collaborate on designing AI-enabled apps
 - 📫 How to reach me: email me at thomastheconquerer@gmail.com
 
 <!---
